@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "uk.co.budandleaf.survey",
+      "sha256_cert_fingerprints": [
+        "AF:03:88:A9:18:CD:E1:CD:C7:2D:EA:82:DC:44:44:8D:66:45:2A:88:A9:33:CC:B0:BE:1B:FD:BD:A4:52:CC:9A",
+        "DC:FC:81:2C:E5:F8:5A:1E:15:35:7A:7B:91:2C:25:28:3C:84:CC:6D:02:CF:DC:81:C1:75:44:94:30:BA:6A:54"
+      ]
+    }
+  }
+]
